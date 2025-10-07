@@ -1,20 +1,22 @@
-# Retail Sales Analysis & Dashboard
+# 🛍️ Retail Sales Analysis & Dashboard
 
-## Overview
-This project analyzes sales data using Python and builds an interactive dashboard in Tableau.
-The dataset is the Sample Superstore dataset, often used for data analytics practice.
+## 📌 Project Overview
+This project explores retail sales performance using the **Sample Superstore** dataset.  
+It demonstrates the complete process a data analyst / data scientist would follow:
+- Cleaning and preparing raw data in **Python (pandas)**.
+- Performing **EDA (Exploratory Data Analysis)** to uncover insights.
+- Calculating business **KPIs** such as Total Sales, Profit, Orders, Average Order Value, Profit Margin %.
+- Building clear visualizations in Python and preparing the dataset for **interactive dashboards** in Tableau or Power BI.
 
-## Skills Demonstrated
-- Python (pandas, matplotlib) for data cleaning, KPI calculation, and exploratory data analysis
-- Creating key business insights:
-  - Monthly sales trends
-  - Sales & profit by category and sub-category
-  - Regional & state profit performance
-  - Discount vs profit impact
-  - Customer segment profitability
-- Tableau for building an interactive dashboard with filters and KPIs
+## 🧰 Skills & Tools Demonstrated
+- Python: `pandas`, `matplotlib`, data cleaning, KPI calculations.
+- Business analytics: sales trends, category & subcategory performance, discount impact, profitability by region/state/segment.
+- Dashboard design: Tableau (or Power BI) for dynamic filtering & storytelling.
+- Version control: Git & GitHub for sharing reproducible work.
 
-## Files
-- **Retail_Analysis.ipynb** — Python notebook with data cleaning, KPIs, and visualizations
-- **Cleaned_Superstore.csv** — cleaned dataset ready for Tableau
-- **README.md** — this file
+## 📊 Visual Insights
+- **Monthly Sales Trends** – identify seasonality and growth.
+- **Sales & Profit by Category/Sub-Category** – see what drives revenue and where margins are weak.
+- **Regional & State Profitability** – geographic performance including loss-making states.
+- **Discount vs Profit** – show how deep discounts hurt profit.
+- **Customer Segments** – analyze Consumer, Corporate, Home Office performance.
