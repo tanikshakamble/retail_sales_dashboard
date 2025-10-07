@@ -6,12 +6,12 @@ It demonstrates the complete process a data analyst / data scientist would follo
 - Cleaning and preparing raw data in **Python (pandas)**.
 - Performing **EDA (Exploratory Data Analysis)** to uncover insights.
 - Calculating business **KPIs** such as Total Sales, Profit, Orders, Average Order Value, Profit Margin %.
-- Building clear visualizations in Python and preparing the dataset for **interactive dashboards** in Tableau or Power BI.
+- Building clear visualizations in Python and preparing the dataset for **interactive dashboards** in Tableau.
 
 ## 🧰 Skills & Tools Demonstrated
 - Python: `pandas`, `matplotlib`, data cleaning, KPI calculations.
 - Business analytics: sales trends, category & subcategory performance, discount impact, profitability by region/state/segment.
-- Dashboard design: Tableau (or Power BI) for dynamic filtering & storytelling.
+- Dashboard design: Tableau for dynamic filtering & storytelling.
 - Version control: Git & GitHub for sharing reproducible work.
 
 ## 📊 Visual Insights
